@@ -68,7 +68,7 @@ I built a custom Next.js front end over a headless WordPress CMS, keeping the ed
 | :--- | :--- |
 | [ScribeAI ↗](https://github.com/ultramynd/ai-scribe-tool) | An AI-assisted transcription and documentation app in progress. |
 
-Most of my client and product work is shown through the [case studies on my portfolio](https://dosujr.com/projects).
+Most of my client and product work is shown through the [case studies on my portfolio](https://dosujr.com/project).
 
 ## The tools I reach for
 
