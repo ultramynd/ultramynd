@@ -1,27 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="t d">
-<title id="t">Kojo Festus Dosu — Product Designer and Web Developer</title>
-<desc id="d">Dark editorial profile cover with restrained blue accents, bold typography, and a visual outline of Kojo's design-to-development process.</desc>
-<defs><clipPath id="c"><rect width="1200" height="360" rx="16"/></clipPath><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#263547" stroke-width="1"/></pattern></defs>
+<title id="t">Kojo Festus Dosu — product designer and developer</title><desc id="d">Profile cover using the black, red, and off-white design language of dosujr.com.</desc>
+<defs><clipPath id="c"><rect width="1200" height="360" rx="18"/></clipPath></defs>
 <g clip-path="url(#c)">
-<rect width="1200" height="360" fill="#0E1722"/>
-<rect x="735" width="465" height="360" fill="#111F2C"/>
-<rect x="735" width="465" height="360" fill="url(#grid)" opacity=".32"/>
-<path d="M734 0V360" stroke="#2F4357"/>
-<rect x="48" y="39" width="10" height="10" fill="#7CC4FF"/>
-<text x="73" y="50" fill="#AFC2D3" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="3">DESIGN × DEVELOPMENT</text>
-<text x="47" y="153" fill="#F2F6F8" font-family="Arial,Helvetica,sans-serif" font-size="82" font-weight="700" letter-spacing="-4">Kojo Festus</text>
-<text x="47" y="238" fill="#7CC4FF" font-family="Arial,Helvetica,sans-serif" font-size="82" font-weight="700" letter-spacing="-4">Dosu.</text>
-<path d="M50 270H678" stroke="#354B5F" stroke-width="2"/>
-<text x="50" y="306" fill="#CFD9E0" font-family="Arial,Helvetica,sans-serif" font-size="18">Product Designer  /  Web Developer</text>
-<text x="50" y="336" fill="#8198AB" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="1.5">ABUJA, NIGERIA  ·  DOSUJR.COM</text>
-<text x="779" y="64" fill="#7CC4FF" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="2.5">FROM IDEA TO RELEASE</text>
-<path d="M793 96V300" stroke="#426079" stroke-width="2"/>
-<circle cx="793" cy="112" r="8" fill="#7CC4FF"/>
-<circle cx="793" cy="175" r="8" fill="#7CC4FF"/>
-<circle cx="793" cy="238" r="8" fill="#7CC4FF"/>
-<circle cx="793" cy="301" r="8" fill="#F29A8C"/>
-<text x="825" y="119" fill="#EAF1F5" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700">Understand</text>
-<text x="825" y="182" fill="#EAF1F5" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700">Design</text>
-<text x="825" y="245" fill="#EAF1F5" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700">Build</text>
-<text x="825" y="308" fill="#F29A8C" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700">Ship</text>
+<rect width="1200" height="360" fill="#000000"/>
+<rect x="1" y="1" width="1198" height="358" rx="17" fill="none" stroke="#292929" stroke-width="2"/>
+<path d="M801 29V331" stroke="#292929"/>
+<g transform="translate(54 33) scale(.048)" fill="#FE3543"><path d="M1645.268 133.981V7.219c0-4.049 3.169-7.218 7.218-7.218h536.451c4.049 0 7.218 3.169 7.218 7.218v134.157c0 3.873-3.169 7.218-7.218 7.218H1659.88v119.544h529.057c4.049 0 7.218 3.345 7.218 7.218v402.471c0 3.873-3.169 7.218-7.218 7.218h-670.608c-3.873 0-7.218-3.345-7.218-7.218V543.67c0-4.049 3.345-7.218 7.218-7.218h529.233v-119.72h-529.233c-3.873 0-7.218-3.169-7.218-7.218V141.376c0-4.049 3.345-7.394 7.218-7.394h126.938Zm-1511.287.176V7.219c0-3.873 3.169-7.218 7.218-7.218h469.549c41.022 0 74.297 33.451 74.297 74.297v536.451c0 41.022-33.275 74.297-74.297 74.297H141.199c-4.049 0-7.218-3.169-7.218-7.218V551.066H7.219c-3.873 0-7.218-3.345-7.218-7.394V141.377c0-4.049 3.345-7.218 7.218-7.218h126.762Zm14.789 402.295h387.682V148.77H148.77zm2264.643 0h387.858V7.219c0-4.049 3.169-7.218 7.218-7.218h134.157c3.873 0 7.218 3.169 7.218 7.218v603.53c0 40.846-33.451 74.297-74.297 74.297h-536.451c-40.846 0-74.297-33.451-74.297-74.297V7.219c0-4.049 3.169-7.218 7.218-7.218h134.157c3.873 0 7.218 3.169 7.218 7.218v529.233Zm-974.66-462.155v536.451c0 41.022-33.451 74.297-74.297 74.297H828.005c-40.846 0-74.297-33.275-74.297-74.297V74.297C753.708 33.451 787.159 0 828.005 0h536.451c40.846 0 74.297 33.451 74.297 74.297m-148.77 462.155V148.77H902.301v387.682z"/></g>
+<text x="985" y="64" fill="#777777" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.4">DOSUJR.COM ↗</text>
+<text x="55" y="128" fill="#FE3543" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="3">KOJO FESTUS DOSU  //  ABUJA, NIGERIA</text>
+<text x="50" y="211" fill="#FAFAFA" font-family="Arial,Helvetica,sans-serif" font-size="68" font-weight="700" letter-spacing="-3">Product designer</text>
+<text x="50" y="286" fill="#FAFAFA" font-family="Arial,Helvetica,sans-serif" font-size="68" font-weight="700" letter-spacing="-3">and <tspan fill="#FE3543">developer.</tspan></text>
+<text x="55" y="332" fill="#8C8C8C" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="1.8">IDEAS  →  EXPERIENCES  →  LIVE PRODUCTS</text>
+<text x="836" y="64" fill="#6C6C6C" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.5">MY EXPERT AREA</text>
+<rect x="835" y="91" width="145" height="103" rx="10" fill="#111111" stroke="#272727"/>
+<rect x="991" y="91" width="145" height="103" rx="10" fill="#111111" stroke="#272727"/>
+<rect x="835" y="205" width="145" height="103" rx="10" fill="#111111" stroke="#272727"/>
+<rect x="991" y="205" width="145" height="103" rx="10" fill="#111111" stroke="#272727"/>
+<text x="856" y="129" fill="#FE3543" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700">01</text>
+<text x="856" y="169" fill="#E9E9E9" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700">Product UX</text>
+<text x="1012" y="129" fill="#FE3543" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700">02</text>
+<text x="1012" y="169" fill="#E9E9E9" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700">Web</text>
+<text x="856" y="243" fill="#FE3543" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700">03</text>
+<text x="856" y="283" fill="#E9E9E9" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700">Identity</text>
+<text x="1012" y="243" fill="#FE3543" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700">04</text>
+<text x="1012" y="283" fill="#E9E9E9" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700">Systems</text>
 </g></svg>
