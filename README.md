@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Kojo Festus Dosu — product designer and web developer" width="100%" />
+  <img src="./assets/profile-banner.svg?v=3" alt="Kojo Festus Dosu — product designer and web developer" width="100%" />
 </p>
 
 <p align="center">
@@ -18,19 +18,19 @@
 ## Selected work
 
 <a href="https://dosujr.com/project/clasierpub">
-  <img src="./assets/project-clasier.svg" alt="Clasier Publishing — an author-first publishing website" width="100%" />
+  <img src="./assets/project-clasier.svg?v=3" alt="Clasier Publishing — an author-first publishing website" width="100%" />
 </a>
 
 Designed the author journey and visual direction, then built the site in Next.js. [Case study ↗](https://dosujr.com/project/clasierpub) · [Live site ↗](https://clasier.pub)
 
 <a href="https://dosujr.com/project/lune-platform">
-  <img src="./assets/project-lune.svg" alt="Lune — waitlist, marketing site, and product interface" width="100%" />
+  <img src="./assets/project-lune.svg?v=3" alt="Lune — waitlist, marketing site, and product interface" width="100%" />
 </a>
 
 Designed and built the waitlist, landing page, and product UI as one connected experience. [Case study ↗](https://dosujr.com/project/lune-platform) · [Live site ↗](https://lunehire.com)
 
 <a href="https://dosujr.com/project/athena-centre">
-  <img src="./assets/project-athena.svg" alt="Athena Centre — a headless content platform" width="100%" />
+  <img src="./assets/project-athena.svg?v=3" alt="Athena Centre — a headless content platform" width="100%" />
 </a>
 
 Built a custom Next.js front end over WordPress so the team could keep its editorial workflow. [Case study ↗](https://dosujr.com/project/athena-centre) · [Live site ↗](https://athenacentre.org)
@@ -66,7 +66,7 @@ I'm studying **Software Engineering at Miva Open University** while continuing t
 <br />
 
 <a href="mailto:ultramynd@gmail.com">
-  <img src="./assets/contact.svg" alt="Have a project in mind? Email Kojo." width="100%" />
+  <img src="./assets/contact.svg?v=3" alt="Have a project in mind? Email Kojo." width="100%" />
 </a>
 
 <p align="center">
