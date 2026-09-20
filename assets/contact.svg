@@ -1,12 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-labelledby="t d">
-<title id="t">Let's make something real</title><desc id="d">A red contact banner for Kojo Festus Dosu.</desc>
-<defs><clipPath id="c"><rect width="1200" height="170" rx="18"/></clipPath></defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="t d">
+<title id="t">Have a project in mind? Let's talk.</title><desc id="d">A dark contact panel with a large call to action and blue arrow.</desc>
+<defs><clipPath id="c"><rect width="1200" height="190" rx="16"/></clipPath></defs>
 <g clip-path="url(#c)">
-<rect width="1200" height="170" fill="#c03449"/>
-<path d="M839-31 1040 170M968-28 1172 170M1092-28 1294 170" stroke="#ffffff" stroke-width="2" opacity=".22"/>
-<circle cx="1122" cy="85" r="79" fill="none" stroke="#ffffff" stroke-width="2" opacity=".5"/>
-<path d="M1085 86h74m-31-30 31 30-31 30" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="44" y="60" fill="#f8d4d9" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="3">AVAILABLE FOR SELECT WORK</text>
-<text x="40" y="117" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="46" font-weight="700" letter-spacing="-1">Let’s make something real.</text>
-</g>
-</svg>
+<rect width="1200" height="190" fill="#0E1722"/>
+<rect width="9" height="190" fill="#7CC4FF"/>
+<path d="M40 150H1160" stroke="#354B5F"/>
+<text x="45" y="47" fill="#7CC4FF" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="3">HAVE A PROJECT IN MIND?</text>
+<text x="42" y="112" fill="#F2F6F8" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="700" letter-spacing="-2">Let's make it work.</text>
+<text x="46" y="174" fill="#AFC2D3" font-family="Arial,Helvetica,sans-serif" font-size="18">ultramynd@gmail.com</text>
+<circle cx="1080" cy="91" r="56" fill="#7CC4FF"/>
+<path d="M1050 91H1110M1086 67l24 24-24 24" fill="none" stroke="#0E1722" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>
