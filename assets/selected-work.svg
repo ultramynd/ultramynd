@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" role="img" aria-labelledby="title desc">
+<title id="title">Selected work — Clasier, Lune, Athena Centre</title>
+<desc id="desc">Three designed project cards: a publishing platform, a product interface, and a headless content rebuild.</desc>
+<defs>
+  <clipPath id="c1"><rect width="590" height="540" rx="18"/></clipPath>
+  <clipPath id="c2"><rect x="610" width="590" height="260" rx="18"/></clipPath>
+  <clipPath id="c3"><rect x="610" y="280" width="590" height="260" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#c1)">
+  <rect width="590" height="540" fill="#192632"/>
+  <rect x="0" width="10" height="540" fill="#c03449"/>
+  <circle cx="520" cy="83" r="100" fill="#c03449" opacity=".18"/>
+  <circle cx="520" cy="83" r="68" fill="none" stroke="#eea9ad" opacity=".6"/>
+  <text x="34" y="56" fill="#eea9ad" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="3">01 / PUBLISHING PLATFORM</text>
+  <text x="31" y="139" fill="#fffdf8" font-family="Arial,Helvetica,sans-serif" font-size="63" font-weight="700" letter-spacing="-2">Clasier.</text>
+  <path d="M34 162H555" stroke="#fffdf8" opacity=".27"/>
+  <text x="34" y="206" fill="#dbe1e3" font-family="Arial,Helvetica,sans-serif" font-size="21">An author-first publishing experience,</text>
+  <text x="34" y="236" fill="#dbe1e3" font-family="Arial,Helvetica,sans-serif" font-size="21">from Figma to a live platform.</text>
+  <rect x="34" y="270" width="165" height="34" rx="17" fill="#c03449"/>
+  <text x="116" y="292" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700">PRODUCT + BRAND</text>
+  <rect x="212" y="270" width="137" height="34" rx="17" fill="#ffffff" opacity=".12"/>
+  <text x="280" y="292" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700">NEXT.JS</text>
+  <g transform="translate(255 332)">
+    <rect x="0" y="49" width="106" height="137" rx="4" fill="#f6eadd" transform="rotate(-11 0 49)"/>
+    <rect x="108" y="19" width="109" height="164" rx="4" fill="#b94b59" transform="rotate(8 108 19)"/>
+    <rect x="202" y="43" width="102" height="146" rx="4" fill="#e6c596" transform="rotate(-5 202 43)"/>
+    <path d="M32 88H82M32 102H72M137 62H190M137 76H180M222 88H275M222 102H265" stroke="#192632" stroke-width="3" opacity=".55"/>
+    <circle cx="155" cy="124" r="23" fill="none" stroke="#f7e6df" stroke-width="2"/>
+  </g>
+  <text x="34" y="505" fill="#bdc7cc" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2">DESIGN / BUILD / DEPLOY</text>
+</g>
+<g clip-path="url(#c2)">
+  <rect x="610" width="590" height="260" fill="#e7def1"/>
+  <circle cx="1111" cy="122" r="112" fill="#cbb8da"/>
+  <circle cx="1131" cy="100" r="91" fill="#e7def1"/>
+  <path d="M970 245c43-85 105-135 192-167" fill="none" stroke="#6d4f86" stroke-width="3" opacity=".5"/>
+  <text x="640" y="43" fill="#6d4f86" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="3">02 / PRODUCT INTERFACE</text>
+  <text x="635" y="116" fill="#261b32" font-family="Arial,Helvetica,sans-serif" font-size="61" font-weight="700" letter-spacing="-2">Lune.</text>
+  <text x="640" y="156" fill="#493759" font-family="Arial,Helvetica,sans-serif" font-size="19">Waitlist, landing, and product UI.</text>
+  <path d="M640 178H946" stroke="#6d4f86" opacity=".4"/>
+  <text x="640" y="211" fill="#6d4f86" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="1.4">FIGMA  ·  VITE  ·  VERCEL</text>
+</g>
+<g clip-path="url(#c3)">
+  <rect x="610" y="280" width="590" height="260" fill="#d8e8e1"/>
+  <rect x="1063" y="319" width="111" height="164" rx="5" fill="#f9f5ed" transform="rotate(12 1063 319)"/>
+  <rect x="1020" y="335" width="111" height="164" rx="5" fill="#90b2a4" transform="rotate(-8 1020 335)"/>
+  <rect x="1058" y="363" width="113" height="152" rx="5" fill="#f9f5ed"/>
+  <path d="M1074 389H1145M1074 402H1135M1074 435H1145M1074 448H1132" stroke="#6b9785" stroke-width="3" opacity=".7"/>
+  <text x="640" y="324" fill="#3f7764" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="3">03 / CONTENT SYSTEM</text>
+  <text x="635" y="395" fill="#1c3b32" font-family="Arial,Helvetica,sans-serif" font-size="56" font-weight="700" letter-spacing="-2">Athena.</text>
+  <text x="640" y="433" fill="#365d50" font-family="Arial,Helvetica,sans-serif" font-size="19">A headless publishing rebuild.</text>
+  <path d="M640 454H973" stroke="#5c8d7a" opacity=".45"/>
+  <text x="640" y="488" fill="#3f7764" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="1.4">NEXT.JS  ·  CMS  ·  CONTENT UX</text>
+</g>
+</svg>
