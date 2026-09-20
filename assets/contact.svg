@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-labelledby="t d">
+<title id="t">Let's make something real</title><desc id="d">A red contact banner for Kojo Festus Dosu.</desc>
+<defs><clipPath id="c"><rect width="1200" height="170" rx="18"/></clipPath></defs>
+<g clip-path="url(#c)">
+<rect width="1200" height="170" fill="#c03449"/>
+<path d="M839-31 1040 170M968-28 1172 170M1092-28 1294 170" stroke="#ffffff" stroke-width="2" opacity=".22"/>
+<circle cx="1122" cy="85" r="79" fill="none" stroke="#ffffff" stroke-width="2" opacity=".5"/>
+<path d="M1085 86h74m-31-30 31 30-31 30" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="44" y="60" fill="#f8d4d9" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="3">AVAILABLE FOR SELECT WORK</text>
+<text x="40" y="117" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="46" font-weight="700" letter-spacing="-1">Let’s make something real.</text>
+</g>
+</svg>
