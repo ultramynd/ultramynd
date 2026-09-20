@@ -1,41 +1,47 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Kojo Festus Dosu — Product Designer & Web Developer" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Kojo Festus Dosu — design that ships" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://dosujr.com"><strong>Portfolio</strong></a> &nbsp;·&nbsp;
-  <a href="mailto:ultramynd@gmail.com"><strong>Email</strong></a> &nbsp;·&nbsp;
-  <a href="https://github.com/ultramynd"><strong>GitHub</strong></a>
+  <a href="https://dosujr.com"><b>PORTFOLIO ↗</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.dosujr.com/project/clasierpub"><b>FEATURED CASE STUDY ↗</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:ultramynd@gmail.com"><b>EMAIL ME ↗</b></a>
 </p>
 
----
+<br />
 
-I’m a **product designer and web developer** based in Abuja, Nigeria. I work from requirements and user flows through interface design and live websites. My background spans more than five years of product, brand, and visual design; I’m also studying **Software Engineering at Miva Open University**.
+<h2 align="center">From first sketch to working product.</h2>
+<p align="center">
+  I’m Kojo, a product designer and web developer in Abuja, Nigeria.<br />
+  I turn requirements into interfaces, identities, websites, and useful product experiences.
+</p>
 
-| Product thinking | Web delivery | Visual systems |
-| --- | --- | --- |
-| User flows, prototypes, and design systems | Responsive sites and content workflows | Brand identity and clear communication |
+<br />
 
-### Selected work
+## Selected work
 
-**01 / [Clasier Publishing](https://clasier.pub)** · Lead, Brand & Product  
-Designed and built the Clasier website from Figma to a live Next.js implementation. I lead product UX and brand direction across four connected publishing, ecommerce, and internal platforms, and create reusable interface patterns and visual materials.
+<a href="https://dosujr.com"><img src="./assets/selected-work.svg" alt="Selected work: Clasier, Lune, and Athena Centre" width="100%" /></a>
 
-**02 / Lune** · Product design & web development  
-Work across product requirements, user flows, interface design, and implementation. I use Codex and Claude to support prototyping, debugging, and iteration.
+**01 / Clasier Publishing** — I led the UX and visual direction, then designed and built the publishing website. [Read the case study ↗](https://www.dosujr.com/project/clasierpub) · [Visit the site ↗](https://clasier.pub)  
+**02 / Lune** — Waitlist, landing page, and product UI.  
+**03 / Athena Centre** — Headless content and publishing experience.
 
-**03 / Athena Centre — Publications CMS** · Client project  
-Built WordPress publication structures and dynamic templates so research and other institutional content is easier to organise, browse, and maintain.
+<p><a href="https://dosujr.com"><b>Explore more work on my portfolio →</b></a></p>
 
-### My toolkit
+## In my workflow
 
-**Design** &nbsp; Figma · Photoshop · Illustrator · Affinity · CorelDRAW  
-**Web** &nbsp; Next.js · WordPress · Elementor · Framer  
-**Workflow** &nbsp; GitHub · Notion · Codex · Claude
+`Figma` &nbsp; `Next.js` &nbsp; `WordPress` &nbsp; `Framer` &nbsp; `Photoshop` &nbsp; `Illustrator` &nbsp; `GitHub` &nbsp; `Codex` &nbsp; `Claude`
 
----
+My design practice grew from print and publishing into digital products. I work across product UX, brand systems, and web delivery, using AI tools to prototype and iterate. I’m studying **Software Engineering at Miva Open University** to deepen the engineering side of that work.
+
+<br />
+
+<a href="mailto:ultramynd@gmail.com"><img src="./assets/contact.svg" alt="Let's make something real — email Kojo" width="100%" /></a>
 
 <p align="center">
-  <strong>Have a product or website in mind?</strong><br />
-  <a href="mailto:ultramynd@gmail.com">Let’s talk</a> &nbsp;·&nbsp; <a href="https://dosujr.com">See my portfolio</a>
+  <a href="mailto:ultramynd@gmail.com">ultramynd@gmail.com</a> &nbsp;·&nbsp;
+  <a href="https://dosujr.com">dosujr.com</a> &nbsp;·&nbsp;
+  Abuja, Nigeria
 </p>
