@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title description">
+  <title id="title">Kojo Festus Dosu — Product Designer and Web Developer</title>
+  <desc id="description">Dark navy profile banner with a red geometric mark and white typography.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#172331"/>
+      <stop offset="1" stop-color="#0c141e"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#ffffff" opacity=".14"/>
+    </pattern>
+    <clipPath id="clip"><rect width="1200" height="340" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="340" fill="url(#background)"/>
+    <rect width="1200" height="340" fill="url(#dots)" opacity=".42"/>
+    <rect x="0" y="0" width="12" height="340" fill="#c43a4c"/>
+    <path d="M875-82 1180 222 1025 377 720 72Z" fill="#c43a4c" opacity=".9"/>
+    <path d="M1080-42 1300 178 1082 396 862 176Z" fill="#d66a76" opacity=".34"/>
+    <circle cx="1036" cy="166" r="98" fill="none" stroke="#ffffff" stroke-width="2" opacity=".42"/>
+    <circle cx="1036" cy="166" r="49" fill="#ffffff" opacity=".12"/>
+    <text x="1036" y="177" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="32" letter-spacing="2">KD</text>
+    <text x="66" y="66" fill="#f0959f" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="15" letter-spacing="4">DESIGN × DEVELOPMENT</text>
+    <text x="64" y="151" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="65">Kojo Festus Dosu</text>
+    <text x="68" y="202" fill="#d7e0e9" font-family="Arial, Helvetica, sans-serif" font-size="28" letter-spacing="1">Product Designer &amp; Web Developer</text>
+    <rect x="68" y="239" width="423" height="1.5" fill="#f0959f" opacity=".75"/>
+    <text x="68" y="276" fill="#aebcc9" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="1.4">PRODUCT UX  ·  WEB  ·  VISUAL IDENTITY</text>
+  </g>
+</svg>
