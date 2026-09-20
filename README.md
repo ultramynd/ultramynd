@@ -1,92 +1,73 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Kojo Festus Dosu — design that ships" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Kojo Festus Dosu — product designer and web developer" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://dosujr.com"><b>Portfolio ↗</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://dosujr.com/project/clasierpub"><b>Featured case study ↗</b></a>
-  &nbsp;·&nbsp;
-  <a href="mailto:ultramynd@gmail.com"><b>Email ↗</b></a>
+  <a href="https://dosujr.com"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://dosujr.com/project"><b>Case studies</b></a> &nbsp;·&nbsp;
+  <a href="mailto:ultramynd@gmail.com"><b>Email</b></a>
 </p>
 
-<h2 align="center">I design the experience and build the thing.</h2>
-
 <p align="center">
-  I’m <b>Kojo Festus Dosu</b>, a product designer and web developer in Abuja, Nigeria.<br />
-  My work connects product thinking, visual identity, and production websites.
+  I turn early ideas into clear interfaces and working websites.<br />
+  My background in publishing and visual design shapes how I approach product UX, content, and code.
 </p>
 
 <br />
-
-## What I do
-
-| Product thinking | Design systems | Web delivery |
-| :--- | :--- | :--- |
-| Turn requirements into journeys, flows, and prototypes people can understand. | Give interfaces and brands a clear visual language that works across touchpoints. | Build responsive sites and content experiences, then take them through launch. |
-
-My path started in print and publishing and moved into digital products. That background still shapes how I work: clear hierarchy, careful content structure, and design that serves a real purpose.
 
 ## Selected work
 
-<img src="./assets/selected-work.svg" alt="Selected work: Clasier Publishing, Lune, and Athena Centre" width="100%" />
+<a href="https://dosujr.com/project/clasierpub">
+  <img src="./assets/project-clasier.svg" alt="Clasier Publishing — an author-first publishing website" width="100%" />
+</a>
 
-### 01 — Clasier Publishing · Product design & development
+Designed the author journey and visual direction, then built the site in Next.js. [Case study ↗](https://dosujr.com/project/clasierpub) · [Live site ↗](https://clasier.pub)
 
-I redesigned and rebuilt the publishing website, from the author journey and editorial visual direction to a Next.js implementation on self-hosted infrastructure. The work makes Clasier’s services easier to understand and gives prospective authors a clear way to start.
+<a href="https://dosujr.com/project/lune-platform">
+  <img src="./assets/project-lune.svg" alt="Lune — waitlist, marketing site, and product interface" width="100%" />
+</a>
 
-**Figma · Next.js · Node.js · Dokploy**  
-[Read the case study ↗](https://dosujr.com/project/clasierpub) · [Visit Clasier ↗](https://clasier.pub)
+Designed and built the waitlist, landing page, and product UI as one connected experience. [Case study ↗](https://dosujr.com/project/lune-platform) · [Live site ↗](https://lunehire.com)
 
-### 02 — Lune · Product design & front end
+<a href="https://dosujr.com/project/athena-centre">
+  <img src="./assets/project-athena.svg" alt="Athena Centre — a headless content platform" width="100%" />
+</a>
 
-I shaped the waitlist, marketing site, and product UI for a skills-verification hiring platform. One design system carries the idea from the launch campaign into the candidate and employer experience.
-
-**Figma · React · Vite · Vercel**  
-[Read the case study ↗](https://dosujr.com/project/lune-platform) · [Visit Lune ↗](https://lunehire.com)
-
-### 03 — Athena Centre · Content platform
-
-I built a custom Next.js front end over a headless WordPress CMS, keeping the editorial workflow familiar while giving publications and institutional content a clearer home.
-
-**Next.js · WordPress REST API · cPanel**  
-[Read the case study ↗](https://dosujr.com/project/athena-centre) · [Visit Athena Centre ↗](https://athenacentre.org)
+Built a custom Next.js front end over WordPress so the team could keep its editorial workflow. [Case study ↗](https://dosujr.com/project/athena-centre) · [Live site ↗](https://athenacentre.org)
 
 <details>
-<summary><b>More client work</b></summary>
+<summary><b>More work</b></summary>
 <br />
 
-- [Stephen Lazi Akhere, PhD ↗](https://dosujr.com/project/stephen-laziak) — a WordPress site with an on-site publications archive and audio integration.
-- [Thrive Network ↗](https://dosujr.com/project/thrive-network) — a mission-led website that organizes a broad set of services into clear routes for visitors.
-- [Clasier brand and campaign ↗](https://dosujr.com/collection/clasier-rebrand) — visual work across the publishing brand.
+- [Stephen Lazi Akhere, PhD](https://dosujr.com/project/stephen-laziak) — website, publications archive, and embedded audio.
+- [Thrive Network](https://dosujr.com/project/thrive-network) — service-led website for distinct audiences.
+- [Clasier rebrand and campaign](https://dosujr.com/collection/clasier-rebrand) — visual identity and campaign work.
 
 </details>
 
+<br />
+
+## What I work with
+
+**Design** &nbsp; `Figma` `Framer` `Photoshop` `Illustrator`  
+**Build** &nbsp;&nbsp;&nbsp; `Next.js` `React` `WordPress` `HTML/CSS`  
+**Ship** &nbsp;&nbsp;&nbsp;&nbsp; `GitHub` `Vercel` `Dokploy` `cPanel`
+
+I work from requirements and user flows through interface design, implementation, and launch. I use Codex and Claude for prototyping and iteration, then review the result against the real brief and product experience.
+
 ## Public code
 
-| Repository | What it is |
-| :--- | :--- |
-| [ScribeAI ↗](https://github.com/ultramynd/ai-scribe-tool) | An AI-assisted transcription and documentation app in progress. |
+**[ScribeAI ↗](https://github.com/ultramynd/ai-scribe-tool)** — an AI-assisted transcription and documentation app in progress. Most of my client work is represented by the [case studies on my portfolio](https://dosujr.com/project).
 
-Most of my client and product work is shown through the [case studies on my portfolio](https://dosujr.com/project).
+## Right now
 
-## The tools I reach for
-
-| Design & visual systems | Front end & content | Build & iteration |
-| :--- | :--- | :--- |
-| Figma · Photoshop · Illustrator · Framer | Next.js · React · WordPress · HTML/CSS | GitHub · Vercel · Dokploy · Codex · Claude |
-
-I use AI tools to explore and iterate faster, while checking the result against the product brief and the experience people will actually use.
-
-## Currently
-
-- Designing and building digital products across UX, brand, and web.
-- Studying **Software Engineering at Miva Open University** to deepen my engineering practice.
-- Interested in projects where a strong idea needs both a thoughtful interface and a working launch.
+I'm studying **Software Engineering at Miva Open University** while continuing to design and build products across UX, brand, and web. I’m especially interested in work where product decisions and implementation need to move together.
 
 <br />
 
-<a href="mailto:ultramynd@gmail.com"><img src="./assets/contact.svg" alt="Let's make something real — email Kojo" width="100%" /></a>
+<a href="mailto:ultramynd@gmail.com">
+  <img src="./assets/contact.svg" alt="Have a project in mind? Email Kojo." width="100%" />
+</a>
 
 <p align="center">
   <a href="mailto:ultramynd@gmail.com">ultramynd@gmail.com</a> &nbsp;·&nbsp;
